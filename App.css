@@ -1,0 +1,12 @@
+.main-section {
+  margin-top: 10px;
+  display: flex;
+  width: 100vw;
+  justify-content: space-evenly;
+
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+}
